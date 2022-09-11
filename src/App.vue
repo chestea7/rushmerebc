@@ -26,6 +26,7 @@ export default {
       calendarOptions: {
         plugins: [ dayGridPlugin, interactionPlugin, listPlugin ],
         initialView: 'dayGridMonth',
+        weekends: false,
       headerToolbar: {
         left: 'prev,next today',
         center: 'title',
@@ -73,6 +74,13 @@ export default {
         }
       },
       events: [
+        {
+          "title": "Playford Trophy",
+          "Opposition": "Glevering",
+          "HomeAway": "Away",
+          "Location": "Glevering Hall",
+          "start": "2022-12-16T19:00:00"
+        },
         {
           "title": "Ladies A",
           "Division": 1,
@@ -527,7 +535,7 @@ export default {
           "Opposition": "Corinthians C",
           "HomeAway": "Away",
           "Location": "Ipswich School Sports Hall",
-          "start": "2022-09-27T20:15:00"
+          "start": "2023-02-09T19:30:00"
         },
         {
           "title": "Mens D",
