@@ -11,13 +11,11 @@
 
 <script>
 import Matches from "@/components/Matches";
-import Menu from "@/components/Menu";
 
 export default {
   name: 'Rushmere BC',
   components: {
-    Matches,
-    Menu
+    Matches
   }
 }
 </script>
