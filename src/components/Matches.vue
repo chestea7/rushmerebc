@@ -642,7 +642,7 @@ export default {
             "Opposition": "Corinthians B",
             "HomeAway": "Away",
             "Location": "Ipswich School Sports Hall",
-            "start": "2022-12-20T20:15:00"
+            "start": "2023-04-27T19:30:00"
           },
           {
             "title": "Mixed A",
@@ -770,7 +770,7 @@ export default {
             "Opposition": "Corinthians D",
             "HomeAway": "Away",
             "Location": "Ipswich School Sports Hall",
-            "start": "2022-12-20T20:15:00"
+            "start": "2023-04-04T20:15:00"
           },
           {
             "title": "Mixed B",
