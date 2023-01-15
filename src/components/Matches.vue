@@ -578,7 +578,7 @@ export default {
             "Opposition": "Abbeygate B",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, The Street, Rushmere",
-            "start": "2023-01-11T20:00:00"
+            "start": "2023-02-20T20:00:00"
           },
           {
             "title": "Mens D",
