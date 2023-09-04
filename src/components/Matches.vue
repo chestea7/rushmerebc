@@ -71,6 +71,13 @@ export default {
         events: [
           {
             "title": "Playford Trophy",
+            "Opposition": "Skillcentre",
+            "HomeAway": "Away",
+            "Location": "Handford Hall School",
+            "start": "2023-10-09T19:15:00"
+          },
+          {
+            "title": "Playford Trophy",
             "Opposition": "Glevering",
             "HomeAway": "Away",
             "Location": "Glevering Hall",
