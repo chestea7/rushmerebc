@@ -823,7 +823,7 @@ export default {
           {"title": "Ladies B,","Division": "L1","Opposition": "Rushmere","HomeAway":"Home","Location": "Ipswich School Sports Centre, The Street, Rushmere","start": "2023-09-18T20:00:00"},
           {"title": "Men's D,","Division": "M4","Opposition": "Ipswich Tigers","HomeAway":"Away","Location": "Inspire Suffolk, Lindbergh Road, Ipswich","start": "2023-09-25T20:00:00"},
           {"title": "Mixed B,","Division": "Mx2","Opposition": "Thorpeness","HomeAway":"Home","Location": "Ipswich School Sports Centre, The Street, Rushmere","start": "2023-09-25T20:00:00"},
-          {"title": "Ladies A,","Division": "L1","Opposition": "Ipswich YM Exiles","HomeAway":"Away","Location": "Suffolk One, Scrivener Drive, Ipswich","start": "2023-09-27T19:00:00"},
+          {"title": "Ladies A,","Division": "L1","Opposition": "Ipswich YM Exiles","HomeAway":"Away","Location": "Suffolk One, Scrivener Drive, Ipswich","start": "2024-03-20T19:00:00"},
           {"title": "Men's A,","Division": "M1","Opposition": "Ipswich YM Exiles","HomeAway":"Away","Location": "Suffolk One, Scrivener Drive, Ipswich","start": "2023-09-27T19:00:00"},
           {"title": "Mixed B,","Division": "Mx2","Opposition": "Belstead Belstead & Bergholt} Bergholt","HomeAway":"Away","Location": "Goals, Suffolk New College","start": "2023-10-02T20:00:00"},
           {"title": "Ladies B,","Division": "L1","Opposition": "Corinthians","HomeAway":"Away","Location": "Ipswich School Sports Hall","start": "2023-10-03T20:30:00"},
