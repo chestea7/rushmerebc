@@ -902,7 +902,7 @@ export default {
           {"title": "Ladies B,","Division": "L1","Opposition": "Ipswich YM Exiles","HomeAway":"Away","Location": "Suffolk One, Scrivener Drive, Ipswich","start": "2024-02-14T19:00:00"},
           {"title": "Men's B,","Division": "M2","Opposition": "DVE","HomeAway":"Home","Location": "Ipswich School Sports Centre, The Street, Rushmere","start": "2024-02-14T20:00:00"},
           {"title": "Men's C,","Division": "M3","Opposition": "Ipswich YM Exiles","HomeAway":"Away","Location": "Suffolk One, Scrivener Drive, Ipswich","start": "2024-02-14T19:00:00"},
-          {"title": "Men's D,","Division": "M4","Opposition": "Ipswich Tigers","HomeAway":"Home","Location": "Ipswich School Sports Centre, The Street, Rushmere","start": "2024-02-14T20:00:00"},
+          {"title": "Men's D,","Division": "M4","Opposition": "Ipswich Tigers","HomeAway":"Home","Location": "Ipswich School Sports Centre, The Street, Rushmere","start": "2023-11-27T20:00:00"},
           {"title": "Men's A,","Division": "M1","Opposition": "DVE","HomeAway":"Away","Location": "Debenham Sports and Leisure Centre","start": "2024-02-16T20:15:00"},
           {"title": "Mixed A,","Division": "Mx1","Opposition": "Belstead Belstead & Bergholt} Bergholt","HomeAway":"Home","Location": "Ipswich School Sports Centre, The Street, Rushmere","start": "2024-02-19T20:00:00"},
           {"title": "Men's A,","Division": "M1","Opposition": "Abbeygate","HomeAway":"Home","Location": "Ipswich School Sports Centre, The Street, Rushmere","start": "2024-02-21T20:00:00"},
