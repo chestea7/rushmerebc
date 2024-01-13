@@ -877,7 +877,7 @@ export default {
           {"title": "Ladies A,","Division": "L1","Opposition": "Ipswich YM Exiles","HomeAway":"Home","Location": "Ipswich School Sports Centre, The Street, Rushmere","start": "2024-01-03T20:00:00"},
           {"title": "Men's A,","Division": "M1","Opposition": "Ipswich YM Exiles","HomeAway":"Home","Location": "Ipswich School Sports Centre, The Street, Rushmere","start": "2024-01-03T20:00:00"},
           {"title": "Ladies B,","Division": "L1","Opposition": "Belstead Belstead & Bergholt} Bergholt","HomeAway":"Away","Location": "Goals, Suffolk New College","start": "2024-01-08T20:00:00"},
-          {"title": "Men's D,","Division": "M4","Opposition": "Skillcentre","HomeAway":"Away","Location": "Handford Hall School","start": "2024-01-08T19:15:00"},
+          {"title": "Men's D,","Division": "M4","Opposition": "Skillcentre","HomeAway":"Away","Location": "Handford Hall School","start": "2024-03-28T19:15:00"},
           {"title": "Mixed B,","Division": "Mx2","Opposition": "Ipswich YM Exiles","HomeAway":"Away","Location": "Suffolk One, Scrivener Drive, Ipswich","start": "2024-01-10T19:00:00"},
           {"title": "Mixed C,","Division": "Mx5","Opposition": "Woodbridge","HomeAway":"Away","Location": "Kesgrave High School","start": "2024-01-11T19:30:00"},
           {"title": "Ladies A,","Division": "L1","Opposition": "Belstead Belstead & Bergholt} Bergholt","HomeAway":"Away","Location": "Goals, Suffolk New College","start": "2024-01-15T20:00:00"},
