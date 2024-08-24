@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
+    "_comment": "Production",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
+  },
+  "_scripts": {
+    "_comment": "Run locally",
+    "_serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+    "_build": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
+    "_lint": "vue-cli-service lint"
   },
   "dependencies": {
     "@fullcalendar/core": "^5.11.3",
