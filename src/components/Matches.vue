@@ -1022,7 +1022,8 @@ export default {
           {"title": "Open D","Division": "O5","Opposition": "Woodbridge","HomeAway": "Home","start": "2025-03-19T20:00:00","Location": "Ipswich School Sports Centre, Rushmere" },
           {"title": "Ladies A","Division": "L1","Opposition": "Stowmarket","HomeAway": "Home","start": "2025-03-26T20:00:00","Location": "Ipswich School Sports Centre, Rushmere" },
           {"title": "Open A","Division": "O1","Opposition": "Stowmarket","HomeAway": "Home","start": "2025-03-26T20:00:00","Location": "Ipswich School Sports Centre, Rushmere" },
-          {"title": "Mixed A","Division": "Mx1","Opposition": "Belstead & Bergholt","HomeAway": "Home","start": "2025-03-31T20:00:00","Location": "Ipswich School Sports Centre, Rushmere" }
+          {"title": "Mixed A","Division": "Mx1","Opposition": "Belstead & Bergholt","HomeAway": "Home","start": "2025-03-31T20:00:00","Location": "Ipswich School Sports Centre, Rushmere" },
+          {"title": "Playford Trophy","Division": "Mx1","Opposition": "Ipswich YM Exiles","HomeAway": "Away","start": "2024-12-04T19:00:00","Location": "Suffolk One, Scrivener Drive, Ipswich" }
         ]
       }
     }
