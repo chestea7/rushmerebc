@@ -1145,7 +1145,7 @@ export default {
             "Opposition": "DVE",
             "HomeAway": "Away",
             "Location": "Debenham Sports and Leisure Centre",
-            "start": "2025-10-31T19:45:00"
+            "start": "2026-01-23T19:45:00"
           },
           {
             "title": "Open C",
