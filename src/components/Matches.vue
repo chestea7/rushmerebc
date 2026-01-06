@@ -1265,7 +1265,7 @@ export default {
             "Opposition": "Thorpeness",
             "HomeAway": "Away",
             "Location": "Wickham Market Primary Schoo",
-            "start": "2025-11-28T19:00:00"
+            "start": "2026-02-17T19:00:00"
           },
           {
             "title": "Open A",
