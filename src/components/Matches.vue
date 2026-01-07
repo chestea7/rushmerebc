@@ -1337,7 +1337,7 @@ export default {
             "Opposition": "Stowmarket",
             "HomeAway": "Away",
             "Location": "Mid Suffolk Leisure Centre",
-            "start": "2026-01-05T20:00:00"
+            "start": "2026-04-13T20:00:00"
           },
           {
             "title": "Ladies A",
@@ -1345,7 +1345,7 @@ export default {
             "Opposition": "Stowmarket",
             "HomeAway": "Away",
             "Location": "Mid Suffolk Leisure Centre",
-            "start": "2026-01-05T20:00:00"
+            "start": "2026-04-13T20:00:00"
           },
           {
             "title": "Open A",
