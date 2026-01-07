@@ -1337,7 +1337,7 @@ export default {
             "Opposition": "Stowmarket",
             "HomeAway": "Away",
             "Location": "Mid Suffolk Leisure Centre",
-            "start": "2026-05-01T20:00:00"
+            "start": "2026-01-05T20:00:00"
           },
           {
             "title": "Ladies A",
@@ -1345,7 +1345,7 @@ export default {
             "Opposition": "Stowmarket",
             "HomeAway": "Away",
             "Location": "Mid Suffolk Leisure Centre",
-            "start": "2026-05-01T20:00:00"
+            "start": "2026-01-05T20:00:00"
           },
           {
             "title": "Open A",
@@ -1353,7 +1353,7 @@ export default {
             "Opposition": "Thorpeness",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-05-01T20:00:00"
+            "start": "2026-01-05T20:00:00"
           },
           {
             "title": "Open C",
@@ -1361,7 +1361,7 @@ export default {
             "Opposition": "Skillcentre",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-07-01T20:00:00"
+            "start": "2026-01-07T20:00:00"
           },
           {
             "title": "Mixed B",
@@ -1369,7 +1369,7 @@ export default {
             "Opposition": "Leiston",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-07-01T20:00:00"
+            "start": "2026-01-07T20:00:00"
           },
           {
             "title": "Open B",
@@ -1377,7 +1377,7 @@ export default {
             "Opposition": "Stowmarket",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-12-01T20:00:00"
+            "start": "2026-01-12T20:00:00"
           },
           {
             "title": "Open A",
@@ -1457,7 +1457,7 @@ export default {
             "Opposition": "Corinthians",
             "HomeAway": "Away",
             "Location": "Ipswich School, Henley Road",
-            "start": "2026-03-02T20:30:00"
+            "start": "2026-02-03T20:30:00"
           },
           {
             "title": "Open C",
@@ -1465,7 +1465,7 @@ export default {
             "Opposition": "Corinthians",
             "HomeAway": "Away",
             "Location": "Ipswich School, Henley Road",
-            "start": "2026-03-02T20:30:00"
+            "start": "2026-02-03T20:30:00"
           },
           {
             "title": "Mixed B",
@@ -1473,7 +1473,7 @@ export default {
             "Opposition": "Thorpeness",
             "HomeAway": "Away",
             "Location": "Wickham Market Primary Schoo",
-            "start": "2026-06-02T19:00:00"
+            "start": "2026-02-06T19:00:00"
           },
           {
             "title": "Open A",
@@ -1481,7 +1481,7 @@ export default {
             "Opposition": "Ipswich Tigers",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-09-02T20:00:00"
+            "start": "2026-02-09T20:00:00"
           },
           {
             "title": "Mixed A",
@@ -1489,7 +1489,7 @@ export default {
             "Opposition": "Ipswich YM Exiles",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-11-02T20:00:00"
+            "start": "2026-02-11T20:00:00"
           },
           {
             "title": "Mixed B",
@@ -1497,7 +1497,7 @@ export default {
             "Opposition": "Stowmarket",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-11-02T20:00:00"
+            "start": "2026-02-11T20:00:00"
           },
           {
             "title": "Open B",
@@ -1561,7 +1561,7 @@ export default {
             "Opposition": "Ipswich YM Exiles",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-04-03T20:00:00"
+            "start": "2026-03-04T20:00:00"
           },
           {
             "title": "Ladies A",
@@ -1577,7 +1577,7 @@ export default {
             "Opposition": "Corinthians",
             "HomeAway": "Away",
             "Location": "Ipswich School, Henley Road",
-            "start": "2026-10-03T20:30:00"
+            "start": "2026-03-10T20:30:00"
           },
           {
             "title": "Mixed A",
@@ -1585,7 +1585,7 @@ export default {
             "Opposition": "Belstead & Bergholt",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-11-03T20:00:00"
+            "start": "2026-03-11T20:00:00"
           },
           {
             "title": "Mixed C",
@@ -1593,7 +1593,7 @@ export default {
             "Opposition": "Belstead & Bergholt",
             "HomeAway": "Home",
             "Location": "Ipswich School Sports Centre, Rushmere",
-            "start": "2026-11-03T20:00:00"
+            "start": "2026-03-11T20:00:00"
           },
           {
             "title": "Open A",
